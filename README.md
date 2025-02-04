@@ -13,10 +13,11 @@
     <h1>Course Website</h1>
     
     <h2>Chapters:</h2>
-    
-    <h3>Chapter 4</h3>
-    <!-- Replace 'filename.html' with your actual Chapter 4 HoP file name -->
-    <a href="chapter4/filename.html">Hands on Practice</a>
+    <title>Course Website</title>
+<style> body { font-family: Arial, margin: 30px; } </style>
+
+<h2>Chapters:</h2>
+<a href="https://h-t117.github.io/MyNewRepo/chapter4/chapter4.html">Chapter 4</a>
     
     <h3>Chapter 5</h3>
     <!-- Replace these with your actual Chapter 5 file names -->
